@@ -11,3 +11,7 @@ Search something on Chrome by just using voice.
 Tells the time, weather etc
 
 Speaks the news headlines
+
+Search wikipedia 
+
+And alot more features too 
